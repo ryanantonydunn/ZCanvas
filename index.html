@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<script src="js/zcanvas-database.js"></script>
+<script src="js/zcanvas-image.js"></script>
+<script src="js/zcanvas-framework.js"></script>
+<script src="js/zcanvas-editor.js"></script>
+<script src="js/zcanvas-editor-states.js"></script>
+<script src="js/zcanvas-editor-game.js"></script>
+<script src="js/zcanvas-editor-graphics.js"></script>
+<script src="js/zcanvas-editor-tiles.js"></script>
+<script src="js/zcanvas-editor-areas.js"></script>
+<script src="js/zcanvas-game.js"></script>
+<script src="js/zcanvas-game-input.js"></script>
+<script src="js/zcanvas-game-area.js"></script>
+<script src="js/zcanvas-game-player.js"></script>
+</head>
+<body>
+<div id="zcanvas-editor"></div>
+<div id="zcanvas-game"></div>
+<script>
+var dat = new zc_database('data.json');
+var edit = new zc_editor(dat);
+var game = new zc_game(dat);
+</script>
+<div id="debug"></div>
+</body>
+</head>
+</html>
