@@ -8,4 +8,4 @@ Top down 2d game engine with integrated map editor. Made with graphics from Zeld
 
 ![Zelda Canvas](zelda-canvas.png)
 
-[https://ryanantonydunn.github.io/zelda-canvas/](Playable Demo)
+[Playable Demo](https://ryanantonydunn.github.io/zelda-canvas/)
