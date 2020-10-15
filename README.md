@@ -1,3 +1,9 @@
-# zcanvas
+🚨⚠️ Very old code warning ⚠️🚨
 
-Very old canvas experiment to make a zelda 3 style top down game and editor. Circa 2011 or so.
+This project was built a very long time ago - around 2011 if I remember correctly. It's preserved here for fun because it's still pretty cool.
+
+# Zelda Canvas
+
+Top down 2d game engine with integrated map editor. Made with graphics from Zelda 3.
+
+[https://ryanantonydunn.github.io/zelda-canvas/](Playable Demo)
